@@ -1,5 +1,6 @@
-package com.company;
-public class Cylinder extends CircularShapes{
+package com.company.CircularShapes;
+
+public class Cylinder extends CircularShapes {
     double height;
     public Cylinder(double radius, double height){
         super("Cylinder",radius);

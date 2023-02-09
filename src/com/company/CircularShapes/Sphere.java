@@ -1,6 +1,6 @@
-package com.company;
+package com.company.CircularShapes;
 
-public class Sphere extends CircularShapes{
+public class Sphere extends CircularShapes {
     public Sphere(double radius){
         super("Sphere", radius);
     }

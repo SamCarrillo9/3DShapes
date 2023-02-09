@@ -1,6 +1,6 @@
-package com.company;
+package com.company.CircularShapes;
 
-public class Cone extends CircularShapes{
+public class Cone extends CircularShapes {
     double height;
     public Cone(double radius, double height){
         super("Cone",radius);

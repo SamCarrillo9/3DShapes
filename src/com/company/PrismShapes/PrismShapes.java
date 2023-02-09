@@ -1,6 +1,8 @@
-package com.company;
+package com.company.PrismShapes;
 
-public class PrismShapes implements Shapes3D{
+import com.company.Shapes3D;
+
+public class PrismShapes implements Shapes3D {
     private String name;
     private double height;
     private double area;
