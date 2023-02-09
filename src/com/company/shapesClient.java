@@ -21,7 +21,7 @@ public class shapesClient {
         shapes[0] = cone;
         shapes[1] = cylinder;
         shapes[2] = sphere;
-        shapes[2] = triangularPrism;
+        shapes[3] = triangularPrism;
 
 
     }
