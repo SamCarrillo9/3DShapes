@@ -1,4 +1,4 @@
-package com.company.CircularShapes;
+package com.company;
 
 public class Cylinder extends CircularShapes {
     double height;

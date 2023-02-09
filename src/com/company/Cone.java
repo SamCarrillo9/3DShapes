@@ -1,4 +1,4 @@
-package com.company.CircularShapes;
+package com.company;
 
 public class Cone extends CircularShapes {
     double height;

@@ -1,4 +1,4 @@
-package com.company.PrismShapes;
+package com.company;
 
 public class TriangularPrism extends PrismShapes {
 }

@@ -1,4 +1,4 @@
-package com.company.CircularShapes;
+package com.company;
 
 public class Sphere extends CircularShapes {
     public Sphere(double radius){

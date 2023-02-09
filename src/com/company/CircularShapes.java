@@ -1,6 +1,5 @@
-package com.company.CircularShapes;
+package com.company;
 
-import com.company.Shapes3D;
 
 public abstract class CircularShapes implements Shapes3D {
     protected String name;
