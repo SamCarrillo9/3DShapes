@@ -1,10 +1,10 @@
 package com.company;
 
 public class PrismShapes implements Shapes3D{
-    String name;
-    double height;
-    double area;
-    int baseSides;
+    private String name;
+    private double height;
+    private double area;
+    private int baseSides;
 
     public String getName(){
         return name;
